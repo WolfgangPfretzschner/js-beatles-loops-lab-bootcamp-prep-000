@@ -11,3 +11,7 @@ function theBeatlesPlay(musicians,instruments){
 }
 
 theBeatlesPlay(['hans', 'berry'],['flut','gitar'])
+
+function johnLennonFacts(facts){
+  
+}
