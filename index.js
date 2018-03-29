@@ -23,4 +23,5 @@ function johnLennonFacts(facts){
   while(facts.length>0){
     
   }
+  return facts
 }
