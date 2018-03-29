@@ -22,7 +22,7 @@ const facts = [
 function johnLennonFacts(facts){
   var final = [];
   while(facts.length>0){
-    var firstElement = fianl.push(facts.shift()+"!!!");
+    var firstElement = final.push(facts.shift()+"!!!");
   }
   console.log(final)
   return final
