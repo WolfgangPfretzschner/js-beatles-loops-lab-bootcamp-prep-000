@@ -20,8 +20,9 @@ const facts = [
 ];
 
 function johnLennonFacts(facts){
+  var final = [];
   while(facts.length>0){
-    facts.slice(1,facts.length-1)
+    var firstElement = fianl.push(facts.shift()+"!!!");
   }
-  return facts
+  return final
 }
