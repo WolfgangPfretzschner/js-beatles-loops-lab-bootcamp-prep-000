@@ -21,7 +21,7 @@ const facts = [
 
 function johnLennonFacts(facts){
   while(facts.length>0){
-    facts
+    facts.slice(1,facts.length-1)
   }
   return facts
 }
