@@ -24,5 +24,6 @@ function johnLennonFacts(facts){
   while(facts.length>0){
     var firstElement = fianl.push(facts.shift()+"!!!");
   }
+  console.log(final)
   return final
 }
