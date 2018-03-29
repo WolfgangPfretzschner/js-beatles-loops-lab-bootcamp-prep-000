@@ -33,6 +33,6 @@ function iLoveTheBeatles(number){
   var array = [];
   do{
     array.push("I love the Beatles!")
-  }while(array.length < number )
+  }while(array.length < number && number < 15)
   return array
 }
